@@ -1,4 +1,5 @@
-
+Frontend Deployment: https://student-info-three.vercel.app/create
+Backend Deployement: https://student-info-6.onrender.com/ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
