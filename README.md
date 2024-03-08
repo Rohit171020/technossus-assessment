@@ -1,4 +1,4 @@
-Frontend Deployment: https://student-info-three.vercel.app/create.\
+Frontend Deployment: https://student-info-three.vercel.app/create.
 
 Backend Deployement: https://student-info-6.onrender.com/ 
 # Getting Started with Create React App
